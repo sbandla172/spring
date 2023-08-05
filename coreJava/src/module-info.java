@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author satis
+ *
+ */
+module coreJava {
+}
