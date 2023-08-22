@@ -8,7 +8,7 @@ interface Shape {
 interface Addable {
 	int add(int a, int b); 
 }
-
+//creating addbleimpl class
 class AddableImpl implements Addable{
 
 	@Override
